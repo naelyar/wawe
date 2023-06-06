@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Raleway', sans-serif;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+.container {
+  width: 1320px;
+  margin: 0 auto;
+}
+body {
+  position: relative;
+  overflow-x: hidden;
+}
